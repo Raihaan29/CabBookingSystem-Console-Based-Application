@@ -1,0 +1,34 @@
+# Sample run of Cab Booking System
+
+-- CAB BOOKING SYSTEM --
+1) SIGN UP
+2) USER LOGIN
+3) ADMIN LOGIN
+4) EXIT
+
+User chooses SIGN UP:
+Name: John
+Phone: 9876543210
+Email: john@mail.com
+Password: pass123
+(Signup successful)
+
+User logs in:
+Phone: 9876543210
+Password: pass123
+
+-- USER DASHBOARD --
+1) Book Cab
+2) My Rides
+3) Logout
+
+User books a ride:
+Pickup: Park
+Drop: Hospital
+Cab Type: Mini
+Confirm Booking? yes
+🎉 Ride #3 is PRIME → 50% Discount Applied!
+Original Fare: 200 | Discount: -100 | Final Fare: 100
+Booking Confirmed!
+
+(Admin logs in later and checks reports)
