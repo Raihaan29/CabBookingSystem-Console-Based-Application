@@ -32,11 +32,11 @@ The system must support:
 
 | Admin Login & Add Driver | User Sign Up |
 |--------------------------|--------------|
-| ![Main-menu](screenshots/main_menu.png)| ![Admin + Sign-up](screenshots/Admin_Dashboard.png)   |
+|  ![Admin + Sign-up](screenshots/Admin_Dashboard.png) |![Main-menu](screenshots/main_menu.png)  |
 
-| User Sign In & Car Booking | Prime Discount |
-|-----------------------------|----------------|
-| ![Prime Discount](screenshots/prime_discount.png)  | ![Booking Flow ](screenshots/Screenshot 2025-09-02 121300.png))   |
+ | Prime Discount |
+|-----------------------------|
+| ![Prime Discount](screenshots/prime_discount.png)  |
 
 ---
 
@@ -56,6 +56,6 @@ The system must support:
   
 ---
 ## 👨‍💻 Team Members
--([Shahin Raihaan A](https://github.com/Raihaan29))  
--([Sukkanth Muthukumar](https://github.com/sukkanth))  
+-- [Shahin Raihaan A](https://github.com/Raihaan29)
+-- [Sukkanth Muthukumar](https://github.com/sukkanth)
 
