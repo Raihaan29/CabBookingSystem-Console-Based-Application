@@ -1,71 +1,61 @@
-# 🚖 Cab Booking Management System – BYTE RUSH ’25 Hackathon
+# 🚖 Cab Booking Management System – BYTE RUSH ’25 Hackathon  
 
-A console-based Cab Booking Management System developed during the **BYTE RUSH ’25 Hackathon**, focusing on practical features and clear user experience. Proudly secured **🥈 2nd Place** at the event!
-
----
-
-##  Problem Statement
-
-Develop a console-based Cab Booking Management System with:
-
-- Booking and cancellation of rides  
-- Intelligent fare calculation with discounts  
-- User ride history tracking  
-- Admin functionalities for booking oversight and driver management  
+A **console-based Cab Booking Management System** developed during the **BYTE RUSH ’25 Hackathon on Console Applications** organized by the **IT Association**.  
+We proudly secured **🥈 2nd Place** in this competition! 🎉  
 
 ---
 
-##  Features Implemented
-
--  **User Module**: Registration & login  
--  **Booking System**: Cab booking with availability checks  
--  **Cancellation**: Users can cancel bookings anytime  
--  **Ride History**: Tracking previous rides  
--  **Prime Discount Logic**: 50% off on prime-numbered rides (2, 3, 5…)  
--  **Fare Calculation**: Dynamic fare based on distance × cab type  
--  **Admin Module**: Admin login (`admin / admin123`)  
--  **Dashboard**: View and manage all bookings and drivers  
+## 📌 Problem Statement  
+Develop a **Cab Booking Management System** as a **console-based application**.  
+The system must support:  
+- Booking and canceling rides  
+- Fare calculation with discounts  
+- User ride history  
+- Admin functionalities for monitoring bookings  
 
 ---
 
-##  Sample Outputs
-
-**Admin Login & Add Driver**, **User Sign-Up**, **Passenger Booking with Prime Discount**  
-
-![Main-menu](screenshots/main_menu.png)  
-![Admin + Add Driver / User Sign-up](screenshots/Admin_Dashboard.png)  
-![Booking Flow with Prime Discount](screenshots/prime_discount.png)  
-
-*(Tip: Combine or organize your screenshots into one or two side-by-side images like above.)*
-
----
-
-##  Tech Stack
-
-- **Language**: Java  
-- **Application Type**: Console-based, no GUI  
-- **Preferred IDE**: VS Code (Extension Pack for Java recommended)  
+## ✨ Features Implemented  
+- ✅ User login & registration  
+- ✅ Book a cab (with cab availability check)  
+- ✅ Cancel a booking anytime  
+- ✅ View ride history  
+- ✅ **Prime Discount** logic applied for eligible customers  
+- ✅ Fare calculation with base + distance-based pricing  
+- ✅ Admin login (`sukkanth / sukkanth07`)  
+- ✅ Admin dashboard to view/manage all bookings  
 
 ---
 
-##  Future Enhancements
+## 🖥️ Sample Outputs  
+## 🚖 Cab Booking System – Output Screenshots
 
-- Support for more cab types (Mini, Sedan, SUV)  
-- Dynamic pricing based on demand or surge  
-- Integrate a database for ride persistence  
-- Add payment gateway integration  
-- GUI implementation with JavaFX or Swing  
+| Admin Login & Add Driver | User Sign Up |
+|--------------------------|--------------|
+| ![Main-menu](screenshots/main_menu.png)| ![Admin + Sign-up](screenshots/Admin_Dashboard.png)   |
 
----
-
-##  Team Members
-
-- **Your Name** ([Shahin Raihaan A](https://github.com/Raihaan29))  
-- **Your Friend’s Name** ([Sukkanth Muthukumar](https://github.com/sukkanth))  
+| User Sign In & Car Booking | Prime Discount |
+|-----------------------------|----------------|
+| ![Prime Discount](screenshots/prime_discount.png)  | ![Booking Flow ](screenshots/Screenshot 2025-09-02 121300.png))   |
 
 ---
 
-##  About
+## ⚡ Tech Stack  
+- **Language:** Java  
+- **Paradigm:** Console-based application (No GUI)  
+- **Editor Used:** VS Code  
 
-A polished console-based cab booking system with key features and innovation wrapped in a simple interface—designed for hackathons and portfolio showcases.
+---
+
+## 🚀 Future Enhancements
+- Add support for different cab types (Mini, Sedan, SUV)
+- Implement dynamic pricing based on demand
+- Store ride history in a database (instead of console only)
+- Add payment gateway integration
+
+  
+---
+## 👨‍💻 Team Members
+-([Shahin Raihaan A](https://github.com/Raihaan29))  
+-([Sukkanth Muthukumar](https://github.com/sukkanth))  
 
